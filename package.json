@@ -1,0 +1,24 @@
+{
+  "name": "bamazonCustomer.js",
+  "version": "1.0.0",
+  "description": "bamazon - using sql, this application will first display all of the items available for sale.",
+  "main": "bamazonCustomer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jasonkirker/bamazonCustomer.js.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jasonkirker/bamazonCustomer.js/issues"
+  },
+  "homepage": "https://github.com/jasonkirker/bamazonCustomer.js#readme",
+  "dependencies": {
+    "inquirer": "^6.2.0",
+    "mysql": "^2.16.0"
+  }
+}
